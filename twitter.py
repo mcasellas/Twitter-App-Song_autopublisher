@@ -5,10 +5,10 @@ import urllib2, time
 
 from twython import Twython
 
-consumer_key = 'Ao9Jse36YR4I1iPQylbACEqe3'
-consumer_secret = 'CWnfv2EgdFzkSNC64V511dTSA6tj0jDYWcw4bse3TZOWwtVZvs'
-access_token = '957639945576951808-6N8BpEAq7JJ6iVJOjzRMfxQDCImkH6H'
-access_token_secret = '3jhJDjq8LCuEpxXQ9xvHFchrfd0tS0I5gGmGxso2d6BeC'
+consumer_key = 'your_stuff'
+consumer_secret = 'your_stuff'
+access_token = 'your_stuff'
+access_token_secret = 'your_stuff'
 
 twitter = Twython(
     consumer_key,
